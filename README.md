@@ -1,7 +1,7 @@
 
 # Diego Yonoff Molina
 
-### Systems Engineering Student | Aspiring IAM Analyst | Identity Security
+### Systems Engineering Student | IAM Analyst | Identity Security
 
 I am a Systems Engineering student at Universidad Simón Bolívar in Colombia, focused on **Identity and Access Management (IAM)** and **Identity Security**.
 
@@ -22,11 +22,6 @@ I am building my skills through personal projects, technical documentation, and 
 A local-first, offline-capable cybersecurity PWA with learning resources for IAM, SOC/Blue Team, Service Desk, and SysAdmin operations. It includes IAM learning workflows, ticket simulations, runbooks, troubleshooting guides, and a roadmap.
 
 - Repository: [VAULTNOTES](https://github.com/dieg0y/VAULTNOTES)
-
-### IP Subnetting Tool — Python
-A command-line utility for IPv4 subnet calculations, including network and broadcast addresses, host ranges, CIDR information, and input validation.
-
-- Repository: [IPsubnetting](https://github.com/dieg0y/IPsubnetting)
 
 ### Plazoleta — User Authentication API
 An academic microservice project implementing user authentication and role-based endpoint access with Spring Security and JWT.
