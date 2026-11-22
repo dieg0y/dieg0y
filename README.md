@@ -1,74 +1,22 @@
 # Diego Yonoff
 
-## IAM Engineer & Identity Security Analyst
+### IAM Engineer & Identity Security Analyst
 
-Microsoft Entra ID • Okta • Auth0 • SailPoint • Saviynt
+Identity Governance • Federation • Zero Trust • Identity Automation
 
-SSO (SAML, OIDC, OAuth 2.0) • SCIM • PIM/PAM • RBAC/FGA • NHI
+Microsoft Entra ID • Active Directory • Okta • Auth0 • SailPoint • Saviynt
 
-PowerShell & Python Automation
+SAML 2.0 • OAuth 2.0 • OpenID Connect • SCIM 2.0 • PIM/PAM • RBAC • FGA
 
 ---
 
 ## About
 
-Identity and Access Management (IAM) Engineer and Identity Security Analyst focused on designing automated identity lifecycles, zero-trust access controls, and federated authentication architectures across hybrid and cloud environments.
+Identity and Access Management (IAM) Engineer and Identity Security Analyst focused on identity lifecycle management, federation, access governance, and identity automation across hybrid and cloud environments.
 
-With a strong foundation in software engineering, I build hands-on IAM projects covering identity governance, lifecycle management, federation, authorization, and identity security operations.
+I build hands-on projects covering Microsoft Entra ID, Active Directory, Okta, Auth0, modern authentication protocols, identity governance, privileged access, and Non-Human Identity security.
 
-My work focuses on translating identity concepts into practical implementations through technical labs, automation projects, and security-focused documentation.
-
----
-
-## Core Capabilities
-
-### Identity Lifecycle & Governance (IGA)
-
-- Joiner-Mover-Leaver (JML) processes
-- Microsoft Graph automation
-- SCIM 2.0 provisioning
-- Access Reviews
-- Entitlement Management
-- Separation of Duties (SoD)
-- Dynamic RBAC groups
-
-### Federation & Modern Authentication
-
-- OAuth 2.0
-- OpenID Connect (OIDC)
-- SAML 2.0
-- Authorization Code + PKCE
-- Client Credentials
-- FIDO2 / WebAuthn
-- Passwordless Authentication
-
-### Zero Trust & Privileged Access
-
-- Microsoft Entra Conditional Access
-- Privileged Identity Management (PIM)
-- Just-In-Time Administration
-- Break Glass Governance
-- Identity Risk Mitigation
-- Non-Human Identity Security
-
-### Fine-Grained Authorization & CIAM
-
-- Auth0 FGA / OpenFGA
-- Relationship-Based Access Control (ReBAC)
-- Multi-Tenant Authorization Models
-- JWT Security
-- JWKS Validation
-- Machine-to-Machine Identity
-
-### Hybrid Identity Infrastructure
-
-- Active Directory
-- Microsoft Entra ID
-- Entra Connect
-- AGDLP
-- Group Policy Auditing
-- Password Hash Synchronization (PHS)
-- Seamless SSO
+My work combines identity engineering, automation, and security through practical labs, technical documentation, and real-world IAM scenarios.
 
 ---
 
@@ -76,29 +24,75 @@ My work focuses on translating identity concepts into practical implementations 
 
 ### IAM Engineering & Identity Security Labs
 
-Hands-on IAM engineering portfolio covering workforce identity, hybrid Active Directory and Entra ID, federation protocols, automated lifecycle management, fine-grained authorization, and Non-Human Identity security across Microsoft Entra ID, Okta, and Auth0.
+Enterprise-oriented IAM engineering portfolio covering workforce identity, hybrid Active Directory and Entra ID, federation technologies, automated lifecycle management, authorization models, and Non-Human Identity security.
 
-Repository: https://github.com/dieg0y/iam-engineering-labs
+**Highlights**
+
+- Hybrid Active Directory & Microsoft Entra ID
+- Automated Joiner-Mover-Leaver (JML) workflows
+- Microsoft Graph & PowerShell automation
+- Okta Workforce Identity
+- SAML 2.0, OAuth 2.0, OpenID Connect & SCIM 2.0
+- Auth0 Fine-Grained Authorization (FGA / ReBAC)
+- Non-Human Identity (NHI) security
+
+Repository:
+https://github.com/dieg0y/iam-engineering-labs
+
+---
 
 ### Microsoft Entra ID User Lifecycle Management
 
-Hands-on lab focused on the complete identity lifecycle in Microsoft Entra ID, including onboarding, access management, auditing, governance, access reviews, Conditional Access, and Break Glass administration.
+Hands-on identity administration project demonstrating the complete employee lifecycle inside Microsoft Entra ID.
 
-Repository: https://github.com/dieg0y/entra-id-user-lifecycle-management
+**Key Areas**
+
+- User onboarding and provisioning
+- Group-based access management
+- Sign-in auditing and monitoring
+- Access Reviews
+- Conditional Access
+- Break Glass administration
+- Offboarding and access revocation
+
+Repository:
+https://github.com/dieg0y/entra-id-user-lifecycle-management
+
+---
 
 ### VaultNotes
 
-Offline-first cybersecurity knowledge platform featuring IAM learning paths, SOC workflows, Service Desk operations, SysAdmin documentation, and operational runbooks.
+Offline-first cybersecurity knowledge platform containing curated learning resources, operational workflows, runbooks, troubleshooting guides, and documentation across IAM, SOC, Service Desk, and SysAdmin domains.
 
-Repository: https://github.com/dieg0y/VAULTNOTES
+Repository:
+https://github.com/dieg0y/VAULTNOTES
+
+---
 
 ### Personal Portfolio
 
-Technical portfolio showcasing projects, labs, certifications, technical articles, and identity security research.
+Portfolio website showcasing projects, technical articles, certifications, learning roadmaps, and identity security research.
 
-Website: https://dieg0y.github.io
+Website:
+https://dieg0y.github.io
 
-Repository: https://github.com/dieg0y/dieg0y.github.io
+Repository:
+https://github.com/dieg0y/dieg0y.github.io
+
+---
+
+## Areas of Focus
+
+- Identity Governance & Administration (IGA)
+- Joiner-Mover-Leaver (JML)
+- Microsoft Entra ID & Hybrid Identity
+- Federation & Single Sign-On
+- Privileged Access Management
+- Fine-Grained Authorization (FGA / ReBAC)
+- Non-Human Identity (NHI) Security
+- Identity Automation with PowerShell, Python & Microsoft Graph
+- Identity Threat Detection & Response (ITDR)
+- Zero Trust Architecture
 
 ---
 
@@ -108,30 +102,26 @@ Repository: https://github.com/dieg0y/dieg0y.github.io
 
 Microsoft Entra ID • Active Directory • Okta • Auth0 • SailPoint • Saviynt
 
-**Protocols & Standards**
+**Protocols**
 
-OAuth 2.0 • OpenID Connect • SAML 2.0 • SCIM 2.0 • FIDO2 • WebAuthn • JWT
+SAML 2.0 • OAuth 2.0 • OpenID Connect • SCIM 2.0 • FIDO2 • WebAuthn • JWT
 
-**Automation**
+**Automation & Development**
 
-PowerShell • Microsoft Graph • Python
-
-**Development**
-
-Java • Spring Boot • TypeScript • SQL • Linux • Docker
+PowerShell • Microsoft Graph • Python • Java • Spring Boot • TypeScript • SQL • Linux • Docker
 
 ---
 
 ## Connect
 
-LinkedIn: https://linkedin.com/in/diegoyonoff
+LinkedIn  
+https://linkedin.com/in/diegoyonoff
 
-Portfolio: https://dieg0y.github.io
+Portfolio  
+https://dieg0y.github.io
 
-GitHub: https://github.com/dieg0y
+GitHub  
+https://github.com/dieg0y
 
-Email: diegojose0405@gmail.com
-
----
-
-Building identity systems, automating access management, and securing digital identities through hands-on engineering.
+Email  
+diegojose0405@gmail.com
